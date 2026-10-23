@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Apple",
+        "price": 150.0,
+        "category": "fruit",
+        "in_stock": true,
+        "id": 1
+    },
+    {
+        "name": "mango",
+        "price": 200.0,
+        "category": "fruit",
+        "in_stock": true,
+        "id": 2
+    }
+]
